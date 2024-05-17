@@ -1,0 +1,134 @@
+a5380ee
+Pointer
+
+2efcde9
+What is a pointer in C++?
+option dabfac4: A variable that stores the address of another variable
+option: A variable that stores the value of another variable
+option: A keyword used to allocate memory dynamically
+option: A keyword used to declare arrays
+
+2efcde9
+What is the purpose of dereferencing a pointer?
+option: Accessing the address of the pointer variable
+option dabfac4: Accessing the value stored in the memory location pointed by the pointer
+option: Modifying the address stored in the pointer variable
+option: Releasing the memory allocated to the pointer
+
+2efcde9
+Which option correctly represents the output of accessing a specific range of elements in an array?
+option: The elements within the specified range are removed from the array.
+option dabfac4: The elements within the specified range are extracted and returned as a new array.
+option: The elements within the specified range are replaced with a default value.
+option: An error is thrown since arrays do not support accessing specific ranges.
+
+b94d27b
+Pointers in C++ allow direct access to the memory address of a variable.
+option dabfac4: True
+option: False
+
+b94d27b
+Pointers in programming languages allow direct manipulation of memory addresses.
+option dabfac4: True
+option: False
+
+b94d27b
+Pointers in programming languages provide a way to access and modify variables indirectly by their memory addresses.
+option dabfac4: True
+option: False
+
+88f7ace
+In programming, what is a pointer?
+
+88f7ace
+What is the purpose of using pointers in programming languages?
+
+a5380ee
+Array
+
+2efcde9
+Which of the following operators is used to access the member variables and functions of an object in C++?
+option: * (asterisk)
+option: -> (arrow)
+option dabfac4: . (dot)
+option: :: (scope resolution)
+
+2efcde9
+Which of the following is NOT a valid C++ variable name?
+option: Arrays can store elements of different data types.
+option: The size of an array can be changed after it is declared.
+option dabfac4: Arrays are always passed to functions by value.
+option: Arrays automatically adjust their size to accommodate additional elements.
+
+2efcde9
+Which of the following best defines an array?
+option: An ordered collection of elements of different data types
+option: A collection of unordered key-value pairs
+option dabfac4: A data structure that stores elements of the same data type with a fixed size
+option: A data type used to store characters only
+
+b94d27b
+In C++, the size of a character variable is always 1 byte.
+option dabfac4: True
+option: False
+
+b94d27b
+In C++, the operator ++ can be used with both integer and floating-point data types.
+option dabfac4: True
+option: False
+
+b94d27b
+The index value of the last element in an array of size N is N-1? 
+option dabfac4: True
+option: False
+
+88f7ace
+Explain the concept of "array index out of bounds" error and how it can occur when working with arrays.
+
+88f7ace
+Discuss the advantages and limitations of using arrays as a data structure in programming
+
+a5380ee
+Algorithms
+
+2efcde9
+What is an algorithm?
+option dabfac4: A step-by-step procedure for solving a problem
+option: A programming language
+option: A hardware component of a computer
+option: A data structure
+
+2efcde9
+Which of the following sorting algorithms has the worst-case time complexity of O(n^2)?
+option: Merge sort
+option dabfac4: Bubble sort
+option: Quick sort
+option: Radix sort
+
+2efcde9
+What is the purpose of the Big O notation in algorithm analysis?
+option: To count the total number of steps in an algorithm
+option dabfac4: To describe the worst-case time complexity of an algorithm
+option: To determine the best sorting algorithm for a given dataset
+option: To measure the memory usage of an algorithm
+
+b94d27b
+Binary search is an example of a divide-and-conquer algorithm.
+option dabfac4: True
+option: False
+
+b94d27b
+Recursion is an iterative approach to solving problems.
+option: True
+option dabfac4: False
+
+b94d27b
+An algorithm with a time complexity of O(n) is considered more efficient than an algorithm with a time complexity of O(n^2).The index value of the last element in an array of size N is N-1? 
+option dabfac4: True
+option: False
+
+88f7ace
+Explain the concept of algorithmic efficiency. Discuss the role of time complexity and space complexity in evaluating the efficiency of an algorithm. Provide examples.
+
+88f7ace
+Compare and contrast linear search and binary search algorithms. Discuss their time complexities and when each algorithm is most appropriate to use.

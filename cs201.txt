@@ -1,0 +1,134 @@
+a5380ee
+Inheritance
+
+2efcde9
+Inheritance is a mechanism in object-oriented programming that allows a class to:
+option dabfac4: Access private members of another class
+option: Create multiple instances of itself
+option: Share properties and methods with other classes
+option: Override all the methods of its parent class
+
+2efcde9
+Which of the following keywords is used to implement inheritance in C++?
+option: extend
+option dabfac4: public
+option: inherit
+option: derive
+
+2efcde9
+When a class inherits from another class, the inherited class is called the:
+option: Derived class
+option dabfac4: Base class
+option: Parent class
+option: Subclass
+
+b94d27b
+Inheritance promotes code reusability by allowing a class to inherit properties and methods from multiple other classes.
+option: True
+option dabfac4: False
+
+b94d27b
+A derived class can access private members (variables and functions) of its base class.
+option dabfac4: False
+option: True
+
+b94d27b
+Multiple inheritance is a feature in which a class can inherit from more than one base class.
+option: True
+option dabfac4: False
+
+88f7ace
+Explain the concept of inheritance and its significance in object-oriented programming. Provide an example to illustrate your explanation
+
+88f7ace
+Discuss the types of inheritance (e.g., single inheritance, multiple inheritance) and their advantages and disadvantages. Provide examples to support your discussion.
+
+a5380ee
+Aggregation
+
+2efcde9
+Aggregation is a form of relationship between two classes where one class:
+option: Inherits from the other class
+option dabfac4: Contains an instance of the other class
+option: Has a parent-child relationship with the other class
+option: Shares static members with the other class
+
+2efcde9
+Which of the following statements best describes the relationship between the aggregated class and the containing class?
+option: The aggregated class is a specialized form of the containing class.
+option dabfac4: The aggregated class is a part/component of the containing class.
+option: The aggregated class is a subclass of the containing class.
+option: The aggregated class is an interface implemented by the containing class.
+
+2efcde9
+Aggregation represents a(n) _________ relationship between classes.
+option: Inheritance
+option: Composition
+option dabfac4: Association
+option: Encapsulation
+
+b94d27b
+In an aggregation relationship, the lifetime of the aggregated object is independent of the containing object.
+option: True
+option dabfac4: False
+
+b94d27b
+Aggregation implies a "whole-part" relationship, where the parts can exist independently of the whole.
+option dabfac4: True
+option: False
+
+b94d27b
+Aggregation allows circular references between classes, creating complex dependencies.
+option dabfac4: True
+option: False
+
+88f7ace
+Explain the concept of aggregation and its purpose in object-oriented programming. Provide an example to illustrate your explanation.
+
+88f7ace
+Compare and contrast aggregation with composition. Discuss situations in which you would choose one over the other, and explain your reasoning.
+
+a5380ee
+Composition
+
+2efcde9
+Composition is a form of relationship between two classes where one class
+option: Inherits from the other class
+option dabfac4: Contains an instance of the other class
+option: Has a parent
+option: Doesn't inherit
+
+2efcde9
+Which of the following is NOT a valid C++ variable name?
+option: Arrays can store elements of different data types.
+option: The size of an array can be changed after it is declared.
+option dabfac4: Arrays are always passed to functions by value.
+option: Arrays automatically adjust their size to accommodate additional elements.
+
+2efcde9
+Which of the following best defines an array?
+option: An ordered collection of elements of different data types
+option: A collection of unordered key-value pairs
+option dabfac4: A data structure that stores elements of the same data type with a fixed size
+option: A data type used to store characters only
+
+b94d27b
+In C++, the size of a character variable is always 1 byte.
+option dabfac4: True
+option: False
+
+b94d27b
+In C++, the operator ++ can be used with both integer and floating-point data types.
+option dabfac4: True
+option: False
+
+b94d27b
+The index value of the last element in an array of size N is N-1? 
+option dabfac4: True
+option: False
+
+88f7ace
+Explain the concept of "array index out of bounds" error and how it can occur when working with arrays.
+
+88f7ace
+Discuss the advantages and limitations of using arrays as a data structure in programming

@@ -1,0 +1,134 @@
+a5380ee
+Stacks
+
+2efcde9
+A stack is a linear data structure that follows the _________ principle.
+option: First In First Out (FIFO)
+option: Last In First Out (LIFO)
+option: Random Access Memory (RAM)
+option dabfac4: Sequential Execution
+
+2efcde9
+Which of the following operations is NOT typically associated with a stack?
+option: Push
+option: Pop
+option dabfac4: Append
+option: Peek
+
+2efcde9
+In a stack, the operation of adding an element to the top of the stack is called _________.
+option: Derived class
+option dabfac4: Base class
+option: Parent class
+option: Subclass
+
+b94d27b
+In a stack, elements can only be inserted or removed from one end.
+option: True
+option dabfac4: False
+
+b94d27b
+The process of adding an element to a stack is called popping.
+option dabfac4: False
+option: True
+
+b94d27b
+Stack data structure follows the Last-In-First-Out (LIFO) principle.
+option: True
+option dabfac4: False
+
+88f7ace
+Explain the concept of a stack and how it operates with its core operations. Discuss the real-world scenarios where a stack data structure can be applied.
+
+88f7ace
+Discuss the advantages and limitations of using an array-based implementation of a stack compared to a linked list-based implementation. Provide examples to illustrate your points.
+
+a5380ee
+Aggregation
+
+2efcde9
+Aggregation is a form of relationship between two classes where one class:
+option: Inherits from the other class
+option dabfac4: Contains an instance of the other class
+option: Has a parent-child relationship with the other class
+option: Shares static members with the other class
+
+2efcde9
+Which of the following statements best describes the relationship between the aggregated class and the containing class?
+option: The aggregated class is a specialized form of the containing class.
+option dabfac4: The aggregated class is a part/component of the containing class.
+option: The aggregated class is a subclass of the containing class.
+option: The aggregated class is an interface implemented by the containing class.
+
+2efcde9
+Aggregation represents a(n) _________ relationship between classes.
+option: Inheritance
+option: Composition
+option dabfac4: Association
+option: Encapsulation
+
+b94d27b
+In an aggregation relationship, the lifetime of the aggregated object is independent of the containing object.
+option: True
+option dabfac4: False
+
+b94d27b
+Aggregation implies a "whole-part" relationship, where the parts can exist independently of the whole.
+option dabfac4: True
+option: False
+
+b94d27b
+Aggregation allows circular references between classes, creating complex dependencies.
+option dabfac4: True
+option: False
+
+88f7ace
+Explain the concept of aggregation and its purpose in object-oriented programming. Provide an example to illustrate your explanation.
+
+88f7ace
+Compare and contrast aggregation with composition. Discuss situations in which you would choose one over the other, and explain your reasoning.
+
+a5380ee
+Composition
+
+2efcde9
+Composition is a form of relationship between two classes where one class
+option: Inherits from the other class
+option dabfac4: Contains an instance of the other class
+option: Has a parent
+option: Doesn't inherit
+
+2efcde9
+Which of the following is NOT a valid C++ variable name?
+option: Arrays can store elements of different data types.
+option: The size of an array can be changed after it is declared.
+option dabfac4: Arrays are always passed to functions by value.
+option: Arrays automatically adjust their size to accommodate additional elements.
+
+2efcde9
+Which of the following best defines an array?
+option: An ordered collection of elements of different data types
+option: A collection of unordered key-value pairs
+option dabfac4: A data structure that stores elements of the same data type with a fixed size
+option: A data type used to store characters only
+
+b94d27b
+In C++, the size of a character variable is always 1 byte.
+option dabfac4: True
+option: False
+
+b94d27b
+In C++, the operator ++ can be used with both integer and floating-point data types.
+option dabfac4: True
+option: False
+
+b94d27b
+The index value of the last element in an array of size N is N-1? 
+option dabfac4: True
+option: False
+
+88f7ace
+Explain the concept of "array index out of bounds" error and how it can occur when working with arrays.
+
+88f7ace
+Discuss the advantages and limitations of using arrays as a data structure in programming
